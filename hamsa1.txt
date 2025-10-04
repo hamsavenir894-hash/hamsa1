@@ -1,0 +1,7 @@
+Git Repository Hosting	GitLab hosts Git repositories with access control, branch protection, and collaboration features.
+Merge Requests	Like GitHub Pull Requests; used for code review and merging.
+CI/CD Pipelines	Define .gitlab-ci.yml to automate workflows, testing, and deployments.
+Auto DevOps	Automatically configures CI/CD pipelines based on project settings.
+Project Management	Milestones, Kanban-style boards, time tracking, and epics for managing development.
+Built-in Container Registry	For storing Docker images tied to your projects.
+Self-Hosted or Cloud	Run GitLab on your own servers, or use GitLab.com.
