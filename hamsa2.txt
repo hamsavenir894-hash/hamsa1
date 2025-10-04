@@ -1,0 +1,15 @@
+Developer pushes code to GitLab repository.
+
+A .gitlab-ci.yml file triggers the pipeline.
+
+GitLab CI/CD runs:
+
+Build
+
+Test
+
+Deploy
+
+Merge Request created → team reviews the code.
+
+After approval, changes are merged into the main branch
