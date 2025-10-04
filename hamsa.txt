@@ -1,0 +1,15 @@
+What is GitLab Used For?
+
+GitLab is mainly used for:
+
+Source Code Management (SCM): Version control using Git.
+
+CI/CD Pipelines: Automate build, test, and deployment processes.
+
+Issue Tracking: Plan and manage development tasks with issues, boards, and milestones.
+
+Code Review: Use merge requests for team collaboration and code quality control.
+
+Security & Compliance: Built-in tools for code security, compliance checks, and auditing.
+
+DevSecOps: Integration of security practices directly into the development lifecycle
